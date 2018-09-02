@@ -8,5 +8,9 @@ public class SunDown {
 			System.out.println("我还不信了");
 			System.out.println("我也来~");
 			
+			
+		}
+		public void what () {
+			System.out.println("不再漫长");
 		}
 }
